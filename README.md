@@ -1,4 +1,4 @@
-# ListaFácil
+# ListaFácil José Avelino Evangelista Neto | 37024065
 
 SPA de lista de compras feita com **React + Vite + React Router**.
 
