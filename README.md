@@ -20,3 +20,4 @@ Ajudar o usuário a montar sua lista de compras e marcar o que já foi comprado,
 npm install
 npm run dev
 ```
+# listafacil
